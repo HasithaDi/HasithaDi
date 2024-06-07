@@ -5,7 +5,7 @@
 <h3 align="center">I’M CREATIVE FRONT-END WEB DEVELOPER & UI UX DESIGNER, I LOOK FORWARD TO IMPROVING MY SKILLS AT EVERY TURN.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashankavi&label=Profile%20views&color=0e75b6&style=flat" alt="ashankavi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashankavi&label=Profile%20views&color=0e75b6&style=flat" alt="HasithaDi" /> </p>
 
 - I’m studying at IDM.https://www.idmedu.lk/  
 - All of my projects are available at [HERE!](https://github.com/Ashankavi?tab=repositories)
