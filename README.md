@@ -9,13 +9,13 @@
 
 - I’m studying at IDM.https://www.idmedu.lk/  
 - All of my projects are available at [HERE!](https://github.com/Ashankavi?tab=repositories)
-- 📫 How to reach me *ashankaviuh@gmail.com*
+- 📫 How to reach me *dilshanhasitha254@gmail.com*
 - 🌱 I’m currently learning *React Native*
-- Fun fact I play games, Travel, Reading. 
+- Fun fact I play games, Travel, Reading, Workout for gym. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashan-kavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashan-kavindu" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hasitha-dilshan-a7a8142b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashan-kavindu" height="30" width="40" /></a>
 <a href="https://fb.com/ashan kavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashan kavindu" height="30" width="40" /></a>
 <a href="https://instagram.com/ashxn___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashxn___" height="30" width="40" /></a>
 <a href="https://dribbble.com/shanuk05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shanuk05" height="30" width="40" /></a>
