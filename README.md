@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://i.pinimg.com/originals/fc/1f/69/fc1f693ab7cac34aff9772d8016d05f8.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Ashan Kavindu</h1>
 <h3 align="center">I’M CREATIVE FRONT-END WEB DEVELOPER & UI UX DESIGNER, I LOOK FORWARD TO IMPROVING MY SKILLS AT EVERY TURN.</h3>
