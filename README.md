@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif" align="center" style="width: 100%" />
+<img src="[[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Hasitha Dilshan</h1>
 <h3 align="center">I’M CREATIVE FRONT-END WEB DEVELOPER & UI UX DESIGNER, I LOOK FORWARD TO IMPROVING MY SKILLS AT EVERY TURN.</h3>
