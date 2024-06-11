@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/hasitha-dilshan-a0a7802b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasitha dilshan" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/hasitha-dilshan-a0a7802b2](https://www.linkedin.com/in/hasitha-dilshan-a0a7802b2/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasitha dilshan" height="30" width="40" /></a>
 <a href="[https://fb.com/ashan kavindu](https://web.facebook.com/haitha.dilhan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasitha dilshan" height="30" width="40" /></a>
 <a href="https://instagram.com/ashxn___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashxn___" height="30" width="40" /></a>
 <a href="https://dribbble.com/shanuk05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shanuk05" height="30" width="40" /></a>
